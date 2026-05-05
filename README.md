@@ -1,4 +1,5 @@
 Welcome to the NextJS base template bootstrapped using the `create-next-app`. This template supports TypeScript, but you can use normal JavaScript as well.
+<img width="1402" height="1122" alt="codewear" src="https://github.com/user-attachments/assets/380d16e3-6931-4146-afdc-af8ce9c722cf" />
 
 ## Getting Started
 
